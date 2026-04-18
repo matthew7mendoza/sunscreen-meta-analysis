@@ -1,0 +1,34 @@
+{
+    "De_Villa_2011": {
+        "Domain 1: Randomisation": "Low",
+        "Domain 2: Deviations": "Some concerns",
+        "Domain 3: Missing Outcome": "Low",
+        "Domain 4: Measurement": "Some concerns",
+        "Domain 5: Selective Reporting": "Low",
+        "Weight": 19.3
+    },
+    "Teramura_2011": {
+        "Domain 1: Randomisation": "Some concerns",
+        "Domain 2: Deviations": "Some concerns",
+        "Domain 3: Missing Outcome": "Low",
+        "Domain 4: Measurement": "Low",
+        "Domain 5: Selective Reporting": "Low",
+        "Weight": 30.6
+    },
+    "Heerfordt_2018": {
+        "Domain 1: Randomisation": "Some concerns",
+        "Domain 2: Deviations": "Some concerns",
+        "Domain 3: Missing Outcome": "Low",
+        "Domain 4: Measurement": "Low",
+        "Domain 5: Selective Reporting": "Low",
+        "Weight": 17.4
+    },
+    "Le_Digabel_2023": {
+        "Domain 1: Randomisation": "Some concerns",
+        "Domain 2: Deviations": "Some concerns",
+        "Domain 3: Missing Outcome": "Low",
+        "Domain 4: Measurement": "Low",
+        "Domain 5: Selective Reporting": "Low",
+        "Weight": 32.7
+    }
+}
