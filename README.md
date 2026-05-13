@@ -1,8 +1,6 @@
 # Automating Evidence-Based Medicine: A Computational Meta-Analysis of Sunscreen Photoprotection
 
-![Python Version](https://img.shields.io/badge/python-3.12%2B-blue)
-![Dependencies](https://img.shields.io/badge/dependencies-conda--forge-orange)
-![License](https://img.shields.io/badge/license-MIT-green)
+
 
 ## Overview
 Sunscreen application falls short of the 2.0 mg/cm^2 clinical threshold required for effective photoprotection. This repository is a fully custom OOP Python program that conducts a meta-analysis of in_vivo trails evaluating the consecutive double application of sunscreen. This meta-analysis was conducted following the guidelines from Cochrane Handbook for Systematic Reviews of Interventions.
